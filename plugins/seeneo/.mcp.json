@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "seeneo-local": {
+      "command": "uv",
+      "args": ["run", "--quiet", "--script", "${CLAUDE_PLUGIN_ROOT}/server/seeneo_local.py"]
+    },
+    "seeneo": {
+      "type": "http",
+      "url": "https://seeneo.ai/mcp"
+    }
+  }
+}

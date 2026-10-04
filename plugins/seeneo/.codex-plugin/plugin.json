@@ -1,0 +1,29 @@
+{
+  "name": "seeneo",
+  "version": "0.1.0",
+  "description": "Edit your own videos on your computer: cut silences, trim and order clips, add Thai/English/Chinese captions, reframe for vertical video, add music and export mp4. Free local tools; optional seeneo.ai server tasks after sign-in.",
+  "author": {
+    "name": "seeneo",
+    "url": "https://seeneo.ai"
+  },
+  "homepage": "https://seeneo.ai",
+  "repository": "https://github.com/Boom-Vitt/seeneo-plugin",
+  "license": "MIT",
+  "keywords": ["video", "video-editing", "captions", "subtitles", "thai", "vertical-video", "ffmpeg"],
+  "mcpServers": "./.codex-mcp.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "seeneo",
+    "shortDescription": "Edit your videos locally, free",
+    "longDescription": "Cut silences, trim and order clips, add Thai/English/Chinese captions, reframe to 9:16, add music and export mp4 on your own computer. Footage stays local. Optional seeneo.ai server tasks after sign-in.",
+    "developerName": "seeneo",
+    "category": "Design",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://seeneo.ai",
+    "defaultPrompt": [
+      "Cut the silences in this video and add captions.",
+      "Make a 9:16 Reel from these clips with Thai subtitles.",
+      "ตัดช่วงเงียบแล้วใส่ซับภาษาไทยให้วิดีโอนี้"
+    ]
+  }
+}

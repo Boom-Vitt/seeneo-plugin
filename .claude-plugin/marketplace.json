@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seeneo",
+  "description": "seeneo video editing for Claude Code and Codex: free local editing tools plus optional seeneo.ai server tasks.",
+  "owner": {
+    "name": "seeneo",
+    "url": "https://seeneo.ai"
+  },
+  "plugins": [
+    {
+      "name": "seeneo",
+      "source": "./plugins/seeneo",
+      "description": "Edit your own videos on your computer: cut silences, trim and order clips, add Thai/English/Chinese captions, reframe for vertical video, add music and export mp4. Free, no account; footage stays local.",
+      "category": "productivity",
+      "homepage": "https://seeneo.ai"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "seeneo",
+  "version": "0.1.0",
+  "description": "Edit your own videos on your computer: cut silences, trim and order clips, add Thai/English/Chinese captions, reframe for vertical video, add music and export mp4. Free local tools; optional seeneo.ai server tasks after sign-in.",
+  "author": {
+    "name": "seeneo",
+    "url": "https://seeneo.ai"
+  },
+  "homepage": "https://seeneo.ai",
+  "repository": "https://github.com/Boom-Vitt/seeneo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "video-editing",
+    "captions",
+    "subtitles",
+    "thai",
+    "vertical-video",
+    "ffmpeg"
+  ]
+}
