@@ -1,3 +1,15 @@
+<!-- BBN:HEADER:START -->
+<div align="center">
+
+<img src=".github/brand/banner.svg" width="100%" alt="seeneo for Claude Code — Free local video editing for Claude Code and Codex" />
+
+<a href="https://github.com/Boom-Vitt/seeneo-plugin/stargazers"><img src="https://img.shields.io/github/stars/Boom-Vitt/seeneo-plugin?style=flat-square&color=14b8a6&labelColor=0b1220" alt="stars" /></a>
+<a href="https://github.com/Boom-Vitt/seeneo-plugin/commits/main"><img src="https://img.shields.io/github/last-commit/Boom-Vitt/seeneo-plugin?style=flat-square&color=14b8a6&labelColor=0b1220" alt="last commit" /></a>
+<a href="https://github.com/Boom-Vitt"><img src="https://img.shields.io/badge/by-BoomBigNose-14b8a6?style=flat-square&labelColor=0b1220" alt="by BoomBigNose" /></a>
+
+</div>
+<!-- BBN:HEADER:END -->
+
 # seeneo for Claude Code and Codex
 
 [English](#english) · [ไทย](#ไทย) · [中文](#中文)
@@ -272,3 +284,15 @@ codex plugin marketplace remove seeneo
 ---
 
 License: [MIT](LICENSE)
+
+<!-- BBN:FOOTER:START -->
+---
+
+<div align="center">
+
+**สร้างโดย [BoomBigNose](https://github.com/Boom-Vitt)** · [Kruoop.com](https://kruoop.com) แหล่งเรียน AI + คอมมูนิตี้ · [Seeneo.ai](https://seeneo.ai) · [YouTube 220K](https://www.youtube.com/@BoomBigNose)
+
+<sub>ถ้าโปรเจกต์นี้มีประโยชน์ กด ⭐ ให้กำลังใจกันได้เลย</sub>
+
+</div>
+<!-- BBN:FOOTER:END -->
